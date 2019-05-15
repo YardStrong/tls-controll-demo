@@ -1,0 +1,13 @@
+{
+    "name": "cloud-socket-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node bin/startServer.js",
+        "test": "node bin/testClient.js"
+    },
+    "author": "YardStrong<YardStrong@163.com>",
+    "license": "ISC",
+    "dependencies": {}
+}
